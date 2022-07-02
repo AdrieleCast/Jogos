@@ -1,0 +1,60 @@
+body {
+      background-color: rgb(107, 19, 129);
+      background-image: url(https://img.freepik.com/vetores-gratis/fundo-roxo-escuro-realista-com-forma-de-baixo-poli-e-sombra-bandeira-roxa-abstrata_266878-404.jpg);
+  }
+  
+  h1 {
+    color: rgb(10, 247, 10);
+    text-align: center;
+    text-shadow: 1px 1px 6px darkblue, 2px 2px 20px rgb(250, 252, 250), 0 0 5px darkblue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+
+  div {
+    width: 70%;
+    border: 5px solid rgb(10, 247, 10);
+    border-radius: 10px;
+    box-shadow: 2px 2px 10px aliceblue;
+    padding: 50px;
+    margin: 1%;
+    margin-left: auto;
+    margin-right: auto;
+    outline-style: groove;
+  }
+
+   p {
+    color: aliceblue;
+    text-align: center; 
+    font-size: 20px;
+   }
+
+   h2 {
+    color: rgb(10, 247, 10);
+    text-align: center;
+    text-shadow: 1px 1px 6px darkblue, 2px 2px 25px rgb(241, 241, 245), 0 0 5px darkblue;
+    font-family: 'Times New Roman', Times, serif;
+   }
+
+   img {
+    border-radius: 8%;
+    box-shadow: 2px 2px 20px aliceblue;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+  }
+
+   a {
+    text-decoration: none;
+    color: rgb(10, 248, 248);
+    text-align: center;
+    list-style: none;
+    text-shadow: 1px 1px 6px darkblue, 2px 2px 25px aliceblue;
+    font-size: 20px;
+   }
+
+   footer {
+       color: aliceblue;
+       text-align: center;
+       text-shadow: 1px 1px 2px darkblue, 1px 1px 25px rgb(249, 249, 252), 1px 1px 5px darkblue;
+   }
