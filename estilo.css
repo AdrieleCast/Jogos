@@ -53,6 +53,37 @@ body {
     font-size: 20px;
    }
 
+main {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+ }
+
+ h1 {
+  text-align: center;
+ }
+
+ hr {
+  font-weight: bold;
+  height: 3px;
+  background: white;
+  margin-bottom: 10px;
+ }
+
+ .game {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+ }
+
+ .game button {
+  width: 300px;
+  height: 100px;
+  margin: 5px;
+  cursor: pointer;
+  font-size: 50px;
+  background: purple;
+ }
+
    footer {
        color: aliceblue;
        text-align: center;
